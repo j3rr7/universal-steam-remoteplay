@@ -25,6 +25,9 @@ use steam_appid.txt to control game id you can get game id from [SteamDB](https:
 
 you can **ONLY** use the game id you own so make sure to use that or use globally free game ex: [A.V.A Global](https://store.steampowered.com/app/1473480/AVA_Global/) use 1473480
 
+PS: 
+the **Path** button is hardcoded to be used as Ryujinx Data it is completely optional 
+
 ## First Look
 
-![Image Here]()
+![Image Here](./image/gui.png)
